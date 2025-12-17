@@ -5,11 +5,11 @@ Este repositório contém meus estudos de Python, desde fundamentos básicos at�
 ## Observações
 
 **Arquivos de mídia**
-Alguns programas utilizam arquivos de áudio.
+- Alguns programas utilizam arquivos de áudio.
 Certifique-se de manter a estrutura de diretórios para correto funcionamento.
 
 **Bibliotecas**
-Alguns scripts utilizam bibliotecas exertenas do Python e foram desenvolvidos/testados em ambiente local, como:
+- Alguns scripts utilizam bibliotecas exertenas do Python e foram desenvolvidos/testados em ambiente local, como:
 - emoji
 - pygame
 
