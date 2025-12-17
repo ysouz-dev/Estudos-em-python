@@ -8,8 +8,8 @@ Este repositório contém meus estudos de Python, desde fundamentos básicos at�
 - Alguns programas utilizam arquivos de áudio.
 Certifique-se de manter a estrutura de diretórios para correto funcionamento.
 
-**Bibliotecas**
-- Alguns scripts utilizam bibliotecas exertenas do Python e foram desenvolvidos/testados em ambiente local, como:
+**Bibliotecas** 
+: Alguns scripts utilizam bibliotecas exertenas do Python e foram desenvolvidos/testados em ambiente local, como:
 - emoji
 - pygame
 
