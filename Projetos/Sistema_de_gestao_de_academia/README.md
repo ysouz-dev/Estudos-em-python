@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Academia
+# Sistema de Gestão de Academia
 
 Projeto desenvolvido em Python com foco em Programação Orientada a Objetos,
 simulando o gerenciamento de alunos, funcionários e equipamentos.
