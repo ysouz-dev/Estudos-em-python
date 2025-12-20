@@ -1,4 +1,4 @@
-Sistema de Controle Financeiro de Barbearia
+# Sistema de Controle Financeiro de Barbearia
 Projeto desenvolvido em Python com foco em Programação Orientada a Objetos, criado para resolver um problema real do meu dia a dia como barbeiro:
 **não ter um controle claro de quanto dinheiro entrava por mês na barbearia.**
 
